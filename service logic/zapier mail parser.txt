@@ -1,0 +1,11 @@
+my plan is below:
+1. ticket -> email
+- you buy one smtp to use in project to send mail
+- i should config provided smtp account in project
+- Create email template and add mail logic
+Send mail only when user create ticket in site.
+2. email -> ticket
+- you should register zapier account and give me.
+- I will set up zapier mail parser and trigger in zapier.
+- you config mail to forward to zapier
+- I will create api to create ticket from email.

@@ -1,0 +1,102 @@
+==============================
+live server
+==============================
+vaccine
+site: 
+https://www.vaccine-lab.jp/
+SSH:
+IP: 160.16.91.142
+port: 58117
+ID ->    vaclab_y26
+PW ->    "TuSL.M{Z-%5{a.q
+
+DB::
+
+MySQL:
+ID: vaclab_y26, root, roundcube
+pwd: LiveysmL25U-Z6
+
+
+live server account
+
+user admin1@motocle.com
+pwd:  avuK9b-)s6/98Ks^
+
+
+restart apache
+
+cmd:service httpd start
+pwd:123456
+
+==============
+develop server
+==============
+
+DEVELOPING SERVER
+site: 
+https://www.motocle6.com/
+
+vaccine/
+Admin Panel:
+ID: admin1@motocle.com.  Pw: avuK9b-)s6/98Ks^
+
+IP: 160.16.134.242
+Port: 22
+SSH:
+Username: root
+Password: "TuSL.M{Z-%5{a.q
+
+Mysql: 
+IP: 160.16.134.242
+root or vaclabuser
+Password: ys&mL.25{U-*Z6   ysmL25U-Z6
+
+Path in server: 
+cd /var/www/html/kmb_vaccine-lab
+
+
+VPS
+https://secure.sakura.ad.jp/vps/
+160.16.134.242
+"PuKL.C{U-%2{m.k
+VPS
+https://secure.sakura.ad.jp/vps/
+160.16.58.8
+"PuKL.C{U-%2{m.k
+vaccine live info
+
+
+
+
+
+
+cd /root/temp
+
+git clone https://xiangming@0305github.com/goureshn/hotel.git
+
+
+yum install
+
+
+ls-name
+OS review.
+
+
+
+IP: 160.16.134.242
+Port: 22
+SSH:
+Username: root
+Password:  "TuSL.M{Z-%5{a.q 
+
+Ubuntu or Centos
+yum install git   -> centos
+apt-get intall git -> ubuntu
+
+
+#zip -r hotel.zip hotel
+
+160.16.91.142:58117
+vaclab_y26
+"TuSL.M{Z-%5{a.q
+

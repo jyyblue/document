@@ -1,0 +1,9 @@
+FTP Username: dev@hirerentforless.com
+FTP server: 185.162.65.193
+FTP & explicit FTPS port:  21
+password: J1?C0L0=O(6v
+
+slack:
+developer-u8b9165
+xiangming0305@yeah.net
+Sc1221-3-4

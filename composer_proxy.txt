@@ -1,0 +1,26 @@
+set http_proxy=http://172.25.1.2:3129
+set https_proxy=http://172.25.1.2:3129
+
+netsh winhttp set proxy http://127.0.0.1:9666
+
+set http_proxy=http://developer02:Lib201702@172.16.1.95:3128
+set https_proxy=http://developer02:Lib201702@172.16.1.95:3128
+
+
+==========================================
+
+npm config set proxy http://developer02:Lib201702@172.16.1.95:3128
+
+npm config set rm proxy
+
+
+Installation
+For global use with slush
+
+Install gulp-install as a dependency:
+
+npm install --save gulp-install
+For local use with gulp
+Install gulp-install as a development dependency:
+
+npm install --save-dev gulp-install

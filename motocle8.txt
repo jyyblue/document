@@ -1,0 +1,19 @@
+vaccine
+
+SSH:
+IP: 160.16.91.142
+port: 58117
+ID ->    vaclab_y26
+PW ->     "MuSL.L{U-%2{y.q  ->old     "TuSL.A{U-%5{a.q  ->new    "TuSL.M{Z-%5{a.q
+
+DB::
+
+MySQL:
+ID: vaclab_y26, root, roundcube
+pwd: ys&mL.25{U-*Z6  LiveysmL25U-Z6
+
+
+live server account
+
+user admin1@motocle.com
+pwd:  avuK9b-)s6/98Ks^
