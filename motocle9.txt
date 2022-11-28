@@ -1,6 +1,0 @@
-server account: motocle9
-domain: motocle9.sakura.ne.jp
-password: akzgma96s9
-path:/home/motocle9/www/projects/b_reptile
-
-git clone https://motokiaoki@bitbucket.org/motokiaoki/b_reptile.git/branch/payment-gateway

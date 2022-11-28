@@ -1,6 +1,0 @@
-email: wenqiangliu344@gmail.com
-pass:  Wqiang20200530
-
-birth: 1990.1.1
-first name: Liu
-last name : WenQiang

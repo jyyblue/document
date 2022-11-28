@@ -1,3 +1,0 @@
-guru: xiangming414@gmail.com
-pwd: Sc1221-3-4
-secret: maria  , micle
