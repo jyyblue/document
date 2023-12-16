@@ -1,0 +1,164 @@
+
+studyace : fastcomet
+https://my.fastcomet.com
+victor.kean@zohomail.com
+Power@9090
+-------------------------------------------------------------------
+sutdyace.net
+admin
+support@studyace.net
+Power@90#$
+-------------------------------------------------------------------
+homeworkstudyace.net new hosting
+https://my.bluehost.com/hosting/app/#/onboarding/wordpress/theme
+PWD: H.Ds$-8p7cd4$8+
+Email: kolweya02@gmail.com
+
+
+homeworkstudy.net admin account: // 2021-12-01
+pwd: Kenya@9090
+support@homeworkstudy.net
+client name : student-2134134
+
+-------------------------------------
+truelance.com Hosting
+-------------------------------------
+pwd: mE5RqjH2qvaQ58$
+email: kolweya02@hotmail.com
+https://www.inmotionhosting.com/
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+pwd: Wf@hsK!5z!3cevE
+new pwd: I6wdosBRn7e
+kolweya02@gmail.com
+https://www.hostinger.com/cpanel-login
+
+http://studyace.net/login
+kolweya02@hotmail.com
+6rk0gxzv
+
+reference site account 
+if you need homework clinet account for reference, 
+---------------- client --------------------------
+https://www.homeworkmarket.com/. 
+Username: cosby5
+Password: Kenya@2030
+
+---------------- writer --------------------------
+https://www.homeworkmarket.com/user/login,
+Username: Educator2
+pwd; Password1
+
+
+working: 
+/home/payments/add?token....
+
+ftp
+email: josephwanjara
+pswd: justlogin@123
+
+
+SSH IP	185.214.126.1
+SSH Port	65002
+SSH Username	u961437427
+SSH Password	Same as FTP password
+
+
+new hosting
+https://clients.hostwinds.com/buyshared/596
+username: kolweya02@gmail.com
+pwd: WCY8p2#6wuiD8Y.
+
+
+https://my.bluehost.com/web-hosting/cplogin
+domain name: academicscope.com
+pwd: @Sheshe@2022
+
+
+wordpress - customwriting
+admin
+9#GkZ$9CBm
+admin@customwriting.studyace.net
+
+
+-------------------------------------------------------------------
+https://www.scalahosting.com/
+password: RLRFusrsRjJ@k5m
+kolweya02@gmail.com
+
+-------------------------------------------------------------------
+https://studybay.app
+email: kolweya02@hotmail.com
+pwd: 7qp5Ab3ueJJwGCw
+
+paul@yompail.com
+pwd: Power9090
+-------------------------------------------------------------------
+https://www.homeworkmarket.com
+username: Educator2
+pwd: PowerofMnd@90
+-------------------------------------------------------------------
+
+AWS Console
+-------------------------------------------------------------------
+pwd: Hj*R$<h7{8a@hr'
+support@homeworkstudy.net
+
+-------------------------------------------------------------------
+ ses-smtp-user.20201101-160825
+SMTP Username:
+AKIAX45D4NVUZU4XEFFY
+SMTP Password:
+BP3afDdOjN4DtXqOs30agZ1cI7tcYGvuJj+4cFSLmgfk
+-------------------------------------------------------------------
+Dreamhost FTP
+Host: carjack.dreamhost.com
+password: TcWUfrSN7Ux.D_6
+username: dh_2b654v
+-------------------------------------------------------------------
+DreamHost 
+kolweya02@hotmail.com
+TcWUfrSN7Ux.D_6
+-------------------------------------------------------------------
+sendpulse
+https://login.sendpulse.com/manual/
+support@essaylink.net
+Kolweya@20
+
+-------------------------------------------------------------------
+zoho account
+username: victor.kean@zohomail.com
+PWD: Power@90
+Zoho Accounts
+https://transmail.zoho.com
+-------------------------------------------------------------------
+zoho smtp 
+Server name smtp.transmail.com
+Port number 465,587
+Authentication TLS, SSL
+User credentials 
+Username emailapikey
+Password wSsVR60g/kH1BqZ/ymGvJeowzAwEBF31HE1+jFem4iL8GPnEpcdokkbHUVDyHPYYR2ZrRTMbpOgtyhkG02YJ3N0pnllUXCiF9mqRe1U4J3x17qnvhDzIWWtdkxWMJY4MxwVpmmdmG84k+g==
+
+emailappsmtp.2b7e10fd
+CSvLZbn6y9ys__15640eea0069f
+
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.transmail.com
+MAIL_PORT=465
+MAIL_USERNAME=emailappsmtp.2b7e10fd
+MAIL_PASSWORD=CSvLZbn6y9ys__15640eea0069f
+MAIL_ENCRYPTION=ssl
+
+------------------------------------------------------------------
+sendgrid smtp api key
+victor.kean@zohomail.com
+fufrexLfra40Fri?U
+
+homeworkstudy
+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

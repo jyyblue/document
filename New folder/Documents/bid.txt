@@ -1,0 +1,6 @@
+I am a highly motivated, skilled and passionate web developer.
+I  challenge every day, to grow, to learn and to improve and bring the best of my experience and abilities to my complementary roles.
+I am as happy working remotely as I am when getting together in the office and am open to and enthusiastic about working with team members across multiple geographic locations. 
+I believe in the agile manifesto and have worked on agile projects under the scrum process and actively and enthusiastically contribute to agile ceremonies.
+I have demonstrable intermediate to expert level experience of software development using the following languages, frameworks and tools:
+Laravel, PHP, jQuery, HTML5, CSS, SCSS, Angular, Vue.js, React.js, ionic, React native, Git, Github, MySQL

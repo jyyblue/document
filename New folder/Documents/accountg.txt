@@ -1,0 +1,8 @@
+Admin: https://zigho.com/admin
+Account: botble
+Password: 159357
+
+Hosting
+Control Panel URL: http://51.89.153.93:2082
+http://www.zigho.com:2082/
+Username: zighocom Password: 66uzDHU4:]5kHw
